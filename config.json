@@ -1,0 +1,10 @@
+{
+  "database": {
+    "engine": "mysql",
+    "host": "db",
+    "name": "proxy",
+    "user": "master",
+    "password": "Deas3194",
+    "port": 3306
+  }
+}

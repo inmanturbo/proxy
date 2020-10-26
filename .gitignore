@@ -17,3 +17,4 @@ html
 laravel.env
 make.env
 /data
+/letsencrypt

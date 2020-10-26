@@ -18,3 +18,4 @@ laravel.env
 make.env
 /data
 /letsencrypt
+config.json
